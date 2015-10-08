@@ -1,0 +1,91 @@
+#div1{
+	color: white;
+	width: 200px;
+	height: 100px;
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left:0px;
+}
+
+#div2{
+	color: white;
+	width: 200px;
+	height: 100px;
+	background-color: red;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.clear{
+	clear: both;
+}
+
+.container{
+	width: 800px;
+	position: relative;
+	left: 100px;
+	height: 100px;
+}
+
+#div3{
+	color: white;
+	width: 200px;
+	height 100px;
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#div4{
+	color: white;
+	width: 200px;
+	height: 100px;
+	background-color: red
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#div5{
+	color: white;
+	width: 200px;
+	height: 100px
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#div6{
+	color: white;
+	width: 200px;
+	height: 100px;
+	background-color: red;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#div7{
+	color: white;
+	width: 200px;
+	height: 100px;
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#div8{
+	color: white;
+	width: 200px;
+	height: 100px;
+	background-color: red;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
