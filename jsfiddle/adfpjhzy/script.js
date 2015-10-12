@@ -13,4 +13,12 @@ $( document ).ready(function() {
     	// transition up
     	$('#div3').delay(1700).toggle('slide', {direction: 'up'}, 'slow');
     	$('#div4').delay(5400).toggle('slide', {direction: 'down'}, 'slow');
+	
+	// transition down
+	$('#div4').delay(2000).toggle('slide', {direction: 'down'}, 'slow');
+	$('#div5').delay(8000).toggle('slide', {direction: 'up'}, 'slow');
+
+	// transition right
+	$('#div5').delay(2300).toggle('slide', {direction: 'right'}, 'slow');
+	$('#div6').delay(10900).toggle('slide', {direction: 'left'}, 'slow');
 });
