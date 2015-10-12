@@ -1,0 +1,94 @@
+ontainer {
+    overflow: hidden;
+}
+#div1 {
+    font-size: 90px;
+    position: absolute;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#div2 {
+    font-size: 90px;
+    position: absolute;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.clear {
+    clear: both;
+}
+.container {
+    width: 800px;
+    position: relative;
+    left: 100px;
+    height: 100px;
+}
+#div3 {
+    font-size: 90px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#div4 {
+    font-size: 90px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#div5 {
+    font-size: 90px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#div6 {
+    font-size: 90px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#div7 {
+    font-size: 90px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#div8 {
+    font-size: 90px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
